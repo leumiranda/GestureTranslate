@@ -1,7 +1,7 @@
 # Hand Gesture Recognition Project
 
 ![Hand Gesture Recognition Demo](link_para_uma_imagem_ou_gif_de_demo.gif)
-
+![Imagem](https://github.com/leumiranda/GestureTranslate/blob/main/sinais.jpg)
 ## Overview
 
 Este é um projeto de reconhecimento de gestos de mão em tempo real que utiliza a linguagem de sinais manual para interpretar letras do alfabeto e gestos comuns, como "pedra", "papel" e "tesoura". O projeto combina várias tecnologias, incluindo TensorFlow.js e a biblioteca Fingerpose, para detectar e rastrear movimentos das mãos em uma webcam ou dispositivo de câmera.
@@ -46,4 +46,5 @@ Este projeto utiliza as seguintes bibliotecas e tecnologias:
 ## Licença
 
 Este projeto é distribuído sob a [Licença MIT](LICENSE).
+
 
