@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tensorflow-models/handpose": "^0.0.7",
+    "@tensorflow/tfjs": "^4.5.0",
+    "node-webcam": "^0.8.1"
+  },
+  "scripts": {
+    "start": "npx browser-sync start --server --files src/*.js"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1"
+  }
+}
